@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aliff Ashraff
-- 👀 I’m interested in software development and I am a beginner.
-- 🌱 I’m currently learning the basics of software development .
+- 👀 I’m interested in web and software development and I am a beginner.
+- 🌱 I’m currently learning the basics of software development.
 - 📫 You can reach me via my email aliffzulkiffli97@gmail.com
 
 <!---
